@@ -3,7 +3,7 @@ Privacy Policy
 ### Screenshots
 
 <p float="left">
-  <img src="/homepage.jpeg" width="270" height="480"/>
+  <img src="/homepage.jpeg" style="display: inline-block; margin: 0 auto; max-width: 300px"/>
 </p>
 
 ### Introduction  
